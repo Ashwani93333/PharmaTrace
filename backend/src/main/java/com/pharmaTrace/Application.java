@@ -1,5 +1,4 @@
-package com.pharma.traceability_system;
-
+package com.pharmaTrace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
